@@ -3,7 +3,7 @@ import numpy as np
 import random
 
 # Load the sunset image
-image = cv2.imread("sunset.jpg")
+image = cv2.imread("images.jpeg")
 
 # Read a random text from the "text.txt" file
 with open("text.txt", "r") as file:
